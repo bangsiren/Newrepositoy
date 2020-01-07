@@ -1,0 +1,19 @@
+.logo{
+	height: 130px;
+	width: 130px;
+}
+.small-img{
+	height: 30px;
+	width: 30px;
+}
+.my-ice{
+	height: 250px;
+}
+.bordered{
+	border: 2px solid cyan;
+}
+@media (max-width: 320px){
+	.m{
+		display: none;
+	}
+}
